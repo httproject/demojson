@@ -1,0 +1,28 @@
+{
+  "banners": [
+    {
+      "image": "https://raw.githubusercontent.com/httproject/demojson/master/banner/banner01.png",
+      "url": "https://www.baidu.com"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/httproject/demojson/master/banner/banner02.png",
+      "url": "https://www.baidu.com"
+    }
+  ],
+  "announcements": [
+    {
+      "title": "BTC BTC BTC",
+      "url": "https://www.baidu.com"
+    },
+    {
+      "title": "",
+      "url": "https://www.baidu.com"
+    }
+  ],
+  "advertisements": [
+    {
+      "image": "https://raw.githubusercontent.com/httproject/demojson/master/ads/ad.png",
+      "url": "https://www.baidu.com"
+    }
+  ]
+}
